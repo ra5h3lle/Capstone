@@ -10,7 +10,9 @@ _What Insights could Fitbit gain to stay relevant in the smart watch industry_
 The Data used for this Analysis is available on Kaggle;
 https://www.kaggle.com/arashnic/fitbit
 
-### 2. Data Cleaning
+### 2. Data Wrangling
+
+The data was cleaned by checking for null values, adding new calulated columns to prepare for analysis
 
 
 ### 3. EDA
