@@ -15,10 +15,11 @@ https://www.kaggle.com/arashnic/fitbit
 The data was cleaned by checking for null values, adding new calulated columns to prepare for analysis
 
 
-### 3. EDA
+### 2.1. EDA
+I began the exploratory data analysis by making use of descriptive statistics and then imploring inferential statistics
 
 
-### 4. Project Writeup
+### 3. Technical Presentation
 
-
-### 5. Viz Link
+The stakeholders for this analysis are the Shareholders but more importantly the teamleaders of the data science team, the backend and front end developers team and other data
+analyst team. Given that the presentation will be goiven to the technical team. I prepared a technical presentation.
